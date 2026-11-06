@@ -26,3 +26,4 @@ All notable changes to **LastMatch** will be documented in this file.
 - 🍗 **绝地求生 (PUBG) 战局感知**；
 - 🎴 **炉石传说 FINAL_GAMEOVER 结算状态机**；
 - 💎 **Windows 11 原生 DWM 硬件级圆角与云母质感**。
+
