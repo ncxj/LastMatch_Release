@@ -1,11 +1,12 @@
 # 📝 更新日志 (Release Changelog)
 
-All notable changes to **LastMatch** will be documented in this file.
+All notable changes to **LastMatch (《最后一局·绝不误事》)** will be documented in this file.
 
 ---
 
 ## [v1.0.0-Preview] - 筹备中 · 即将首发 (Upcoming)
 ### 首发核心特性
+- ⏱️ **“绝不误事”智能感知架构**：激战免打扰，局终准时叫
 - 🔫 **CS2 官方 GSI 终局结案感知**（Valve 官方规范，VAC 0 封号风险）
 - ⚔️ **英雄联盟 (LOL) 官方 Live Client API 实时接入**
 - 🐒 **《黑神话：悟空》虚幻5存档流与土地庙休整感知**
