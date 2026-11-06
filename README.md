@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows_11_Exclusive-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/Version-v1.2.0_Official-34A853?style=for-the-badge&logo=github&logoColor=white" alt="Version" />
+  <img src="https://img.shields.io/badge/Status-In_Development_/_Coming_Soon-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Security-100%25_Anti--Cheat_Safe-success?style=for-the-badge" alt="Security" />
   <img src="https://img.shields.io/badge/Framework-.NET_10_WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Framework" />
   <img src="https://img.shields.io/badge/Architecture-x64_Native_Zero--Latency-FF9900?style=for-the-badge" alt="Architecture" />
@@ -12,16 +12,13 @@
 
 ---
 
-## 📥 正式版快速下载 (Downloads)
+## 🚀 正式版发布进展 (Release Status)
 
-> 💡 **绿色便携，解压即用，无需复杂安装**  
-> 运行环境要求：Windows 11 (x64) 21H2 或更高版本（需安装 .NET 10 Desktop Runtime，若未安装程序启动会自动提示指引）。
-
-| 发布版本 | 状态 | 更新日期 | 下载入口 | 更新要点 |
-| :--- | :--- | :--- | :--- | :--- |
-| **v1.2.0 (最新)** | 稳定发布版 | 2026-11 | [📥 点击前往 Releases 下载](https://github.com/ncxj/LastMatch_Release/releases) | 新增 Riot 官方 Live Client API 接入、虚幻5存档监听优化 |
-| **v1.1.0** | 历史版本 | 2026-10 | [📦 历史版本归档](https://github.com/ncxj/LastMatch_Release/releases) | 新增《黑神话：悟空》土地庙与妖王战结案感知 |
-| **v1.0.0** | 创世版本 | 2026-09 | [📦 历史版本归档](https://github.com/ncxj/LastMatch_Release/releases) | CS2 GSI 官方广播、文明系列 Autosave 监听、炉石传说 |
+> ⏳ **当前状态：压测筹备中 · 即将首发 (Coming Soon)**  
+> 《最后一局》目前正处于最终内测与多游戏官方协议压测阶段。待发布包打包完成并通过多杀毒厂商白名单认证后，将第一时间在本仓库的 **[Releases](https://github.com/ncxj/LastMatch_Release/releases)** 发布首个正式免安装便携版！
+> 
+> 💡 **想要第一时间获取首发下载？**  
+> 点击本页面右上角的 **⭐ Star** 收藏本项目，或点击 **Watch ➔ Custom ➔ 勾选 Releases**，正式版上线时 GitHub 将自动通过邮件向你推送下载通知！
 
 ---
 
@@ -34,7 +31,7 @@
 
 ### 传统自律方案的致命痛点：
 1. **死板的定时关机软件（极其反人类）**：
-   - 到点毫无征兆“啪”直接切断电源！你正在 CS2 打 14:14 决胜局，或者英雄联盟激战风暴龙王，电脑瞬间黑屏！导致惨遭天梯扣分、连累队友、更面临官方挂机封号处罚。
+   - 到点毫无征兆“啪”直接切断电源！你正在 CS2 打 14:14 决胜局，或者英雄联盟激战大龙，电脑瞬间黑屏！导致惨遭天梯扣分、连累队友、更面临官方挂机封号处罚。
 2. **手机闹钟 / 普通番茄钟（毫无约束力）**：
    - 正在激烈交火时刺耳响铃，只会破坏你的操作手感与心情，玩家第一反应都是顺手关掉闹钟，然后毫无心理负担地“再开一把”，形同虚设。
 
@@ -46,7 +43,7 @@
 
 ## ✨ 核心特性矩阵 (Key Features)
 
-### 1. 🛡️ 全平台游戏智能识别 · 0封号风险 (Zero-Ban Security)
+### 1. 🛡️ 全平台游戏智能识别 · 0 封号风险 (Zero-Ban Security)
 彻底告别传统辅助危险的内存注入或按键宏！《最后一局》坚持纯正白帽架构，仅利用官方原生规范感知局势：
 * 🔫 **反恐精英 2 (CS2)**：基于 **Valve 官方原生 GSI (Game State Integration)** 广播协议，毫秒级捕获终局结算。**Valve 官方 100% 白名单支持，0 内存读写、0 注入、0 封号风险**；
 * ⚔️ **英雄联盟 (League of Legends)**：基于 **Riot 官方原生 Live Client Data API**，精准区分大厅备战与峡谷对局，毫秒级侦测水晶枢纽告破 (`GameEnd`) 与比赛结案；
@@ -58,7 +55,7 @@
 
 ### 2. 🎙️ Windows 11 原生神经网络真人语音唤醒 (Neural Voice Engine)
 * 告别冰冷刺耳的机械蜂鸣！直接调用系统底层 WinRT 神经网络自然人声；
-* 0 外部臃肿依赖、0 显存占用，支持多风格高音质自然语调：“主人，打完这把啦，快去活动一下吧！”
+* 0 外部臃肿依赖、0 显存占用，高音质自然语调：“主人，打完这把啦，快去活动一下吧！”
 
 ### 3. 🌙 平稳物理节能休眠 (Safe Power Sleep)
 * 可选配置“局后一键休眠电脑”；
@@ -71,17 +68,11 @@
 
 ---
 
-## 📖 极速上手使用指南 (Quick Start)
+## 📖 上手运行说明 (Getting Started)
 
-1. **下载解压**：
-   - 前往 [Releases](https://github.com/ncxj/LastMatch_Release/releases) 页面下载最新的 `LastMatch_vX.X.X.zip` 压缩包。
-   - 解压至任意纯英文目录（如 `D:\Tools\LastMatch\`）。
-2. **启动运行**：
-   - 双击运行 `LastMatch.exe`。
-   - 托盘会自动常驻，默认提供激战免打扰和局终唤醒守护。
-3. **设定时间**：
-   - 设定预计结束时间或倒计时（例如“玩到 23:30”或“再玩 45 分钟”）。
-   - 放心开启游戏！到点若在对局中，软件静默守护；比赛一结束，小姐姐语音即刻唤醒。
+1. **便携免安装**：发布后下载解压即可运行，单文件绿色无污染。
+2. **环境要求**：Windows 11 (x64) 21H2 或更高版本。
+3. **极简操作**：启动后常驻托盘，输入结束时间（如“玩到 23:30”），软件全自动开启局内免打扰守护。
 
 ---
 
@@ -107,6 +98,4 @@
 ## 📮 交流与反馈 (Support & Contact)
 
 - **问题反馈与建议**：请在 [Issues](https://github.com/ncxj/LastMatch_Release/issues) 提交工单
-- **商务合作 / 建议反馈**：欢迎通过 GitHub 个人主页与作者取得联系！
-- **更新订阅**：点击右上角 **Watch** ➔ **Custom** ➔ 勾选 **Releases** 即可第一时间接收最新稳定版推送通知。
-
+- **更新订阅**：点击右上角 **Watch** ➔ **Custom** ➔ 勾选 **Releases** 即可第一时间接收首发版本推送！
