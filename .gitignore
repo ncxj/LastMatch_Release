@@ -1,0 +1,5 @@
+# Release repository gitignore
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
