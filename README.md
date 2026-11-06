@@ -1,29 +1,30 @@
-# ⏱️ 《最后一局》· 绝不误事 (LastMatch) 官方正式版发布页
-## 🎮 全球首款支持“智能对局感知与局终唤醒”的电竞自律时钟
+# ⏱️ 《最后一局》· 绝不误事 (LastMatch) 官方产品介绍与发布页
+## 🎮 面向电竞玩家的桌面健康自律时钟与智能作息管理系统
 ### *激战免打扰，局终准时叫，明天绝不误事！*
-#### *The Smart Post-Match Gaming Alarm & Anti-Procrastination Assistant*
+#### *The Smart Gaming Health Clock & Anti-Procrastination Assistant*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows_11_Exclusive-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/Status-In_Development_/_Coming_Soon-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Security-100%25_Anti--Cheat_Safe-success?style=for-the-badge" alt="Security" />
+  <img src="https://img.shields.io/badge/Product_Type-Desktop_Productivity_Tool-success?style=for-the-badge" alt="Product Type" />
+  <img src="https://img.shields.io/badge/Compliance-100%25_Official_APIs_Only-blue?style=for-the-badge" alt="Compliance" />
   <img src="https://img.shields.io/badge/Framework-.NET_10_WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Framework" />
   <img src="https://img.shields.io/badge/Architecture-x64_Native_Zero--Latency-FF9900?style=for-the-badge" alt="Architecture" />
 </p>
 
 ---
 
-## 🚀 正式版发布进展 (Release Status)
+## 📜 平台审核与合规声明 (Official Compliance & Safety Declaration)
 
-> ⏳ **当前状态：压测筹备中 · 即将首发 (Coming Soon)**  
-> 《最后一局·绝不误事》目前正处于最终内测与多游戏官方协议压测阶段。待发布包打包完成并通过多杀毒厂商白名单认证后，将第一时间在本仓库的 **[Releases](https://github.com/ncxj/LastMatch_Release/releases)** 发布首个正式免安装便携版！
-> 
-> 💡 **想要第一时间获取首发下载？**  
-> 点击本页面右上角的 **⭐ Star** 收藏本项目，或点击 **Watch ➔ Custom ➔ 勾选 Releases**，正式版上线时 GitHub 将自动通过邮件向你推送下载通知！
+> [!IMPORTANT]
+> **【重要安全与合规声明】**
+> 1. **正规桌面健康与效率工具**：本软件为作者原创独立开发的桌面健康作息管理工具，核心功能为**日程番茄钟计时、局后温馨语音提醒与物理平稳休眠**。
+> 2. **绝无作弊与破坏公平功能**：本软件**严禁且绝不包含**任何游戏作弊、修改、内存注入、外挂、按键宏、自动脚本或破坏游戏平衡的非法功能。
+> 3. **100% 采用官方合法协议**：对局状态感知仅利用游戏厂商原生公开协议（如 Valve 官方 GSI 赛事转播广播接口、Riot 官方 Live Client 本地数据端口），纯白帽架构，0 内存读写，0 注入，保障账号绝对安全。
+> 4. **知识产权承诺**：本软件拥有完整的独立自主知识产权，受国家计算机软件著作权与法律保护。
 
 ---
 
-## 💡 为什么你需要《最后一局·绝不误事》？ (The "One More Game" Problem)
+## 💡 为什么需要《最后一局·绝不误事》？ (The "One More Game" Problem)
 
 全天下每一位硬核玩家，都曾在深夜对好友或自己说过这句经典的谎言：
 > *“再打最后一把，打完这把真的睡了！”*  
@@ -42,20 +43,20 @@
 
 ---
 
-## ✨ 核心特性矩阵 (Key Features)
+## ✨ 核心功能与技术特色 (Key Features)
 
-### 1. 🛡️ 全平台游戏智能识别 · 0 封号风险 (Zero-Ban Security)
-彻底告别传统辅助危险的内存注入或按键宏！《最后一局》坚持纯正白帽架构，仅利用官方原生规范感知局势：
-* 🔫 **反恐精英 2 (CS2)**：基于 **Valve 官方原生 GSI (Game State Integration)** 广播协议，毫秒级捕获终局结算。**Valve 官方 100% 白名单支持，0 内存读写、0 注入、0 封号风险**；
+### 1. 🛡️ 官方原生白名单感知机制 (Zero-Ban Security)
+坚持纯正白帽架构，仅利用官方原生规范感知局势，不读取或修改任何游戏内存：
+* 🔫 **反恐精英 2 (CS2)**：基于 **Valve 官方原生 GSI (Game State Integration)** 广播协议，毫秒级捕获终局结算；
 * ⚔️ **英雄联盟 (League of Legends)**：基于 **Riot 官方原生 Live Client Data API**，精准区分大厅备战与峡谷对局，毫秒级侦测水晶枢纽告破 (`GameEnd`) 与比赛结案；
-* 🐒 **黑神话：悟空 (Black Myth: Wukong)**：底层监听虚幻 5 引擎存档流，**严格区分野外妖王激斗与土地庙安全期**，上香调息时刻精准提醒；
-* 🏛️ **文明系列 (Civilization VI / VII)**：文件系统底层感知 `Autosave` 落地时刻，**秒级捕捉“再来一回合”终点**；
+* 🐒 **黑神话：悟空 (Black Myth: Wukong)**：底层监听虚幻 5 引擎存档流，严格区分野外妖王激战与土地庙安全期，上香调息时刻精准提醒；
+* 🏛️ **文明系列 (Civilization VI / VII)**：文件系统底层感知 `Autosave` 落地时刻，秒级捕捉“再来一回合”终点；
 * 🍗 **绝地求生 (PUBG)**：对局与成盒大厅结算智能捕捉；
 * 🎴 **炉石传说 (Hearthstone)**：对战结束 `FINAL_GAMEOVER` 权威状态机结案；
-* 💻 **通用工作/学习模式**：不打游戏时作为高颜值番茄钟与日程定时提醒，开箱即用。
+* 💻 **通用工作/学习番茄钟**：不打游戏时作为高颜值番茄钟与日程定时提醒，开箱即用。
 
 ### 2. 🎙️ Windows 11 原生神经网络真人语音唤醒 (Neural Voice Engine)
-* 告别冰冷刺耳的机械蜂鸣！直接调用系统底层 WinRT 神经网络自然人声；
+* 告别冰冷刺耳的机械蜂鸣！直接调用 Windows 11 底层 WinRT 神经网络自然人声；
 * 0 外部臃肿依赖、0 显存占用，高音质自然语调：“主人，打完这把啦，明天还要上班，早点休息绝不误事哦！”
 
 ### 3. 🌙 平稳物理节能休眠 (Safe Power Sleep)
@@ -69,34 +70,40 @@
 
 ---
 
-## 📖 上手运行说明 (Getting Started)
+## 📦 购买交付与使用说明 (Delivery & Usage)
 
-1. **便携免安装**：发布后下载解压即可运行，单文件绿色无污染。
-2. **环境要求**：Windows 11 (x64) 21H2 或更高版本。
-3. **极简操作**：启动后常驻托盘，输入结束时间（如“玩到 23:30”），软件全自动开启局内免打扰守护，准时提醒绝不误事。
+### 交付清单：
+1. **《最后一局·绝不误事》正式版软件包**（绿色单文件便携版，无捆绑、解压即用）；
+2. **正版商业卡密 / 授权激活码**（支持绑定并漫游配置）；
+3. **图文使用说明书与配置指引**；
+4. **后续版本免费升级与专属售后支持**。
 
----
+### 运行环境要求：
+* 操作系统：Windows 11 (x64) 21H2 或更高版本 (Build 22000+)
+* 基础环境：.NET 10 Desktop Runtime（启动若缺少会自动提示一键安装）
 
-## ❓ 常见问题 (FAQ)
-
-<details>
-<summary><b>Q1: 会被 VAC、腾讯反作弊 (ACE / Vanguard) 误封吗？</b></summary>
-<b>绝对不会！</b>《最后一局》不扫描游戏进程内存，不向游戏注入任何 DLL，不修改任何游戏内部数据。CS2 采用 Valve 官方为赛事转播与自研外设提供的标准 GSI HTTP 回调接口；LOL 采用拳头官方公开的本地数据端口。原理与各大官方赛事计分板完全一致，100% 安全合规。
-</details>
-
-<details>
-<summary><b>Q2: 为什么需要 Windows 11 操作系统？</b></summary>
-为了保障软件具备 0 显存占用的高质量神经网络自然语音与 DWM 原生硬件级圆角特效，核心组件基于 Windows 11 (21H2+) 原生 WinRT 现代 API 构建。
-</details>
-
-<details>
-<summary><b>Q3: 软件是免费的吗？</b></summary>
-软件基础版（单定时器、核心游戏免打扰感知、真人语音唤醒）永久免费；高级商业特权（云端多端清单漫游、高级声线包定制、极速休眠控制等）采用低门槛增值卡密模式。
-</details>
+### 极速上手流程：
+1. **解压运行**：将下载的压缩包解压至任意目录，双击运行 `LastMatch.exe`；
+2. **设定时间**：设定预计收手时间或倒计时（例如“玩到 23:30”或“再玩 45 分钟”）；
+3. **正常游戏**：游戏对局中软件 100% 静默无感，战局结算瞬间真人语音提醒并可自动休眠，绝不误事！
 
 ---
 
-## 📮 交流与反馈 (Support & Contact)
+## ❓ 常见问题与售后支持 (FAQ & Service)
 
-- **问题反馈与建议**：请在 [Issues](https://github.com/ncxj/LastMatch_Release/issues) 提交工单
-- **更新订阅**：点击右上角 **Watch** ➔ **Custom** ➔ 勾选 **Releases** 即可第一时间接收首发版本推送！
+<details>
+<summary><b>Q1: 软件会被第三方反作弊误判吗？</b></summary>
+<b>绝对不会！</b>本软件属于独立的系统时钟管理程序，不修改游戏文件，不读取进程内存，不注入 DLL，完全基于厂商公开接口，100% 合规安全。
+</details>
+
+<details>
+<summary><b>Q2: 虚拟商品售后政策？</b></summary>
+因卡密属于数字化虚拟商品，发货后原则上不支持无理由退货。若在使用过程中遇到环境不兼容或技术问题，请随时联系作者获取一对一技术支持。
+</details>
+
+---
+
+## 📮 官方售后与交流
+
+- **售后工单**：请在 [Issues](https://github.com/ncxj/LastMatch_Release/issues) 提交反馈
+- **正版保障**：感谢您对独立开发者的认可与支持！
